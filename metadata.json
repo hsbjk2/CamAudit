@@ -1,0 +1,11 @@
+{
+  "name": "CamAudit",
+  "description": "Professional webcam diagnostics, FPS, resolution, lighting, audio, and privacy-first device testing directly in your browser.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
